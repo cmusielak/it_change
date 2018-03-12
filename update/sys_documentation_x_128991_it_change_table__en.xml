@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="It Change" language="en" table="x_128991_it_change_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>It Change</label>
+            <language>en</language>
+            <name>x_128991_it_change_table</name>
+            <plural>It Changes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 04:09:53</sys_created_on>
+            <sys_id>61b16d25db301300476b78eebf96199e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>It Change</sys_name>
+            <sys_package display_value="IT Change" source="x_128991_it_change">45b1e525db301300476b78eebf961989</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Change">45b1e525db301300476b78eebf961989</sys_scope>
+            <sys_update_name>sys_documentation_x_128991_it_change_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 04:10:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_128991_it_change_table">x_128991_it_change_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ITC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-12 04:09:53</sys_created_on>
+        <sys_id>a1b16d25db301300476b78eebf9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITC</sys_name>
+        <sys_package display_value="IT Change" source="x_128991_it_change">45b1e525db301300476b78eebf961989</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Change">45b1e525db301300476b78eebf961989</sys_scope>
+        <sys_update_name>sys_number_a1b16d25db301300476b78eebf9619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-12 04:09:53</sys_updated_on>
+    </sys_number>
+</record_update>
